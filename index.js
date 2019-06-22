@@ -1,0 +1,1 @@
+document.write('真的好难')
